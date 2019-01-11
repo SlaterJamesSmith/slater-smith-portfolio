@@ -21,3 +21,8 @@ ul {
   padding-bottom: 8px;
   list-style-type: none;
 }
+
+strong {
+  color: orange;
+  font-weight: normal;
+}
