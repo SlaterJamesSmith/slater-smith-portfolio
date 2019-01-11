@@ -26,3 +26,8 @@ strong {
   color: orange;
   font-weight: normal;
 }
+
+ol {
+  padding-bottom: 8px;
+  list-style-type: none;
+}
