@@ -2,6 +2,7 @@
   float: left;
   padding-top: 27px;
   padding-right: 20px;
+  padding-left: 30px
 }
 
 .subheadbanner {
@@ -22,12 +23,24 @@ ul {
   list-style-type: none;
 }
 
-strong {
-  color: orange;
-  font-weight: normal;
-}
-
 ol {
   padding-bottom: 8px;
   list-style-type: none;
+}
+
+strong {
+  color: #CC260A;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.strongb {
+  color: #CC260A;
+  font-weight: normal;
+}
+
+.border {
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
 }
