@@ -8,3 +8,16 @@
   font-weight: normal;
   padding-left: 142px;
 }
+
+.greylist {
+  color: #7D7D7D;
+}
+
+em {
+  color: black;
+}
+
+ul {
+  padding-bottom: 8px;
+  list-style-type: none;
+}
