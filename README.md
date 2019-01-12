@@ -10,7 +10,7 @@ _A portfolio of professional front-end development work including work samples, 
 
 ## Setup/Installation Requirements
 
-* _Clone from_ https://github.com/SlaterJamesSmith/slater-smith-portfolio
+* _Clone from_ https://github.com/SlaterJamesSmith/slater-smith-portfolio _or visit_ https://slaterjamessmith.github.io/slater-smith-portfolio
 * _Open in preferred text editor_
 * _Open existing html & css_
 * _Open in preferred web browser_
